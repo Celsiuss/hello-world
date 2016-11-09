@@ -1,0 +1,10 @@
+{
+    "name": "root/hello-world",
+    "authors": [
+        {
+            "name": "Celsiuss",
+            "email": "912129091@qq.com"
+        }
+    ],
+    "require": {}
+}
