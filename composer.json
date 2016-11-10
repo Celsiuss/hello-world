@@ -1,10 +1,14 @@
 {
-    "name": "root/hello-world",
+    "name": "Celsiuss/hello-world",
+    "license": "MIT",
     "authors": [
         {
             "name": "Celsiuss",
             "email": "912129091@qq.com"
         }
     ],
+    "autoload": {
+        "psr-4": { "Celsiuss\\Demo\\": "src" }
+    },
     "require": {}
 }
